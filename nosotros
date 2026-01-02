@@ -257,7 +257,7 @@
       </p>
       <div class="flex items-center gap-2 mt-4 md:mt-0">
         <span class="text-xs text-gray-500 dark:text-gray-500">Fitness&Fogón</span>
-		<a class="text-gray-400 hover:text-primary transition-colors" href="Inicio.html">
+		<a class="text-gray-400 hover:text-primary transition-colors" href="index.html">
         <span class="material-icons text-primary text-sm" aria-hidden="true">local_fire_department</span></a>
       </div>
     </div>
